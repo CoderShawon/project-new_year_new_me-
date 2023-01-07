@@ -5,7 +5,7 @@
 }
 /* Header Section */
 .banner{
-    background-image: url("./banner3.png");
+    background-image: url("/banner3.png");
     background-repeat: no-repeat;
     background-size:cover;
     width: 1900px;
@@ -56,7 +56,6 @@
 .failures_details{
    margin-bottom: 20px;
    margin-right: 400px;
-   /* text-align: left; */
 }
 /* Plans Section */
 .plans-section{
@@ -88,7 +87,7 @@
     color: #737272;
     margin-top: 10px;
 }
-/* Footer Section */
+/* Call Section */
 .call_title{
     padding-top: 60px;
     text-align: left;
@@ -108,7 +107,7 @@
 }
 .background-image{
     margin-top: 50px;
-    background-image: url("./watch.png");
+    background-image: url("/watch.png");
     background-repeat: no-repeat;
     background-size: cover;
     width: 1150px;
@@ -118,14 +117,14 @@
     margin-left: 400px;
 }
 .linear-color{
-background-image: url("./gradient1.png");
+background-image: url("/gradient1.png");
 background-repeat: no-repeat;
 background-size: cover;
 width: 1200px;
 height: 300px;
 border-radius: 8px;
 }
-/* Call Section */
+/* Footer Section */
 .footer-section{
     display: flex;
     background-color:  #151414;
@@ -144,7 +143,6 @@ border-radius: 8px;
 .footer-details{
     color: #f8f8f8;
     margin-right: 500px;
-/* margin-left: 200px; */
     margin-bottom: 20px;
 }
 .email{
