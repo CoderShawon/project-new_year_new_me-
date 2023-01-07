@@ -5,7 +5,7 @@
 }
 /* Header Section */
 .banner{
-    background-image: url("../banner3.png");
+    background-image: url("./banner3.png");
     background-repeat: no-repeat;
     background-size:cover;
     width: 1900px;
